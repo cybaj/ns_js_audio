@@ -13,7 +13,9 @@
   "repository": "https://github.com/cybaj/ns_js_audio",
   "dependencies": {
     "@nativescript/theme": "~2.3.3",
+    "nativescript-audio": "^5.0.5",
     "nativescript-remote-builds": "^1.1.0",
+    "nativescript-theme-core": "^2.0.24",
     "tns-core-modules": "~6.5.0"
   },
   "devDependencies": {
